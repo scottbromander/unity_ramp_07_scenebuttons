@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A51A3EF9-A4D8-F22A-E251-79826A41C97B}") = "07_Unity_SceneButtons", "Assembly-CSharp.csproj", "{FD2D538B-1B40-80CA-5420-CEF33F32B4C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2D538B-1B40-80CA-5420-CEF33F32B4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2D538B-1B40-80CA-5420-CEF33F32B4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2D538B-1B40-80CA-5420-CEF33F32B4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2D538B-1B40-80CA-5420-CEF33F32B4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
